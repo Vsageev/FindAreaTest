@@ -1,0 +1,12 @@
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\bin\Debug\net5.0\FigureLib.deps.json
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\bin\Debug\net5.0\FigureLib.dll
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\bin\Debug\net5.0\ref\FigureLib.dll
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\bin\Debug\net5.0\FigureLib.pdb
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\obj\Debug\net5.0\FigureLib.csprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\obj\Debug\net5.0\FigureLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\obj\Debug\net5.0\FigureLib.AssemblyInfoInputs.cache
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\obj\Debug\net5.0\FigureLib.AssemblyInfo.cs
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\obj\Debug\net5.0\FigureLib.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\obj\Debug\net5.0\FigureLib.dll
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\obj\Debug\net5.0\ref\FigureLib.dll
+C:\Users\Владислав\source\repos\FindAreaTest\FigureLib\obj\Debug\net5.0\FigureLib.pdb
