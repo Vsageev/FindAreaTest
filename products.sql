@@ -1,0 +1,1 @@
+﻿SELECT p.name AS product, c.name AS category FROM Products p LEFT JOIN produducts_categories pc ON p.id = pc.product_id LEFT JOIN Categories c ON pc.category_id = c.id;
